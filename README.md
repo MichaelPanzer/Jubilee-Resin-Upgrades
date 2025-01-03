@@ -1,6 +1,10 @@
+Resin Upgrades
+=======
+This is a fork of Nanotech45's aluminum upgrades for the Jubilee 3D printer. The goal of this project is to redesign the remaining 3d printed parts to be made with an SLA 3d printer. 
+
+
 Jubilee V2.2.2
 =======
-
 Jubilee is an open-source, extensible multi-tool motion platform capable of running GCode for non-loadbearing automation applications.
 
 ![Jubilee](/frame/pics/jubilee_v2.png)
