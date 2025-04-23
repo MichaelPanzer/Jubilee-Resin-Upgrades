@@ -1,0 +1,38 @@
+﻿2024-09-19 04:51:53 Event logging started
+2024-09-19 04:54:19 Event logging stopped
+2024-09-19 04:54:29 Event logging started
+2024-09-19 07:56:25 Event logging stopped
+2024-09-19 07:56:35 Event logging started
+2024-09-19 08:11:06 Event logging stopped
+2024-09-19 08:11:16 Event logging started
+2024-09-19 08:11:44 Event logging stopped
+2024-09-19 08:11:54 Event logging started
+2024-09-19 08:17:46 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2024-09-19 08:18:33 Event logging started
+2024-09-19 08:23:55 Event logging stopped
+2024-09-19 08:24:04 Event logging started
+2024-09-19 08:24:06 Error: in file config.g line 65: Illegal parameter letter '-'
+2024-09-19 09:02:39 Error: in file macro line 5: G1: Failed to enable endstops
+2024-09-19 09:02:53 Error: Failed to home axes X
+2024-09-19 09:02:54 Error: in file macro line 10: G1: Failed to enable endstops
+2024-09-19 09:03:04 Error: in file macro line 10: G1: Failed to enable endstops
+2024-09-19 09:03:31 Error: in file macro line 10: G1: Failed to enable endstops
+2024-09-19 09:04:09 Event logging stopped
+2024-09-19 09:04:19 Event logging started
+2024-09-19 09:04:20 Error: in file config.g line 66: Illegal parameter letter '-'
+2024-09-19 09:04:26 Error: in file macro line 5: G1: Failed to enable endstops
+2024-09-19 09:05:08 Event logging stopped
+2024-09-19 09:05:17 Event logging started
+2024-09-19 09:05:17 Error: in file config.g line 66: Illegal parameter letter '-'
+2024-09-19 09:05:48 Event logging stopped
+2024-09-19 09:05:57 Event logging started
+2024-09-19 09:06:08 Event logging stopped
+2024-09-19 09:06:18 Event logging started
+2024-09-19 09:06:53 Event logging stopped
+2024-09-19 09:07:02 Event logging started
+2024-09-19 09:08:15 Event logging stopped
+2024-09-19 09:08:25 Event logging started
+2024-09-19 09:09:18 Event logging stopped
+2024-09-19 09:09:27 Event logging started
+2024-09-19 09:09:57 Event logging stopped
+2024-09-19 09:10:08 Event logging started
