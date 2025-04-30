@@ -2,5 +2,8 @@
 From directory that contains sonication_station-master folder(local machine):
 scp -r ./sonication_station-master jubilee@192.168.1.2:/home/jubilee
 
-From sonication_station-master on rbp
+From sonication_station-master on rbp:
 pip install -e . --find-links=home/jubilee/sonication_station-master
+
+I think this is the command to start interactive prompt mode (run from ./sonication_station-master):
+python -m sonication_station.sonication_station
